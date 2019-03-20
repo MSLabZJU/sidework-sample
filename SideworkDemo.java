@@ -14,5 +14,8 @@ public class SideworkDemo{
 
 		// F 同学在此基础上添加了 跌倒检测 模块
 		System.out.println("FFF");
+
+		// F 同学继续添加了 GBDT-SVM 模型模块
+		System.out.println("FFF GBDT-SVM");
 	}
 }
