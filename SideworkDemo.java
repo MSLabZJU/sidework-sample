@@ -11,5 +11,8 @@ public class SideworkDemo{
 		
 		// D 同学请在这里添加 定位算法 模块
 		System.out.println("DDD");
+
+		// F 同学在此基础上添加了 跌倒检测 模块
+		System.out.println("FFF");
 	}
 }
