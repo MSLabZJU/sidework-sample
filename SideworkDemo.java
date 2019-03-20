@@ -4,9 +4,10 @@ public class SideworkDemo{
 		System.out.println("AAA");
 
 		// B 同学请在这里添加 PDR 的代码
-		System.out.println("BBB")
+		System.out.println("BBB");
 		
 		// C 同学请在这里补充 地图显示 的代码
+		System.out.println("CCC");
 		
 		// D 同学请在这里添加 定位算法 模块
 	}
