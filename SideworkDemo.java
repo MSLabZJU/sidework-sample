@@ -10,5 +10,6 @@ public class SideworkDemo{
 		System.out.println("CCC");
 		
 		// D 同学请在这里添加 定位算法 模块
+		System.out.println("DDD");
 	}
 }
