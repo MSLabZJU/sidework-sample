@@ -8,9 +8,9 @@ public class SideworkDemo{
 		
 		// C 同学请在这里补充 地图显示 的代码
 		System.out.println("CCC");
-		
-		// D 同学请在这里添加 定位算法 模块
-		System.out.println("DDD");
+
+		// D 同学把 TOA TDOA 融合了起来
+		System.out.println("DDD & EEE");
 
 		// F 同学在此基础上添加了 跌倒检测 模块
 		System.out.println("FFF");
